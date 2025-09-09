@@ -1,0 +1,7 @@
+
+---
+
+👉 Repo Name: **`aws-glue-s3-csv-to-json-pipeline`**  
+👉 Repo Desc: **“Automated ETL pipeline using AWS Glue + Lambda to convert incoming S3 CSV files into JSON with data quality checks.”**  
+
+---
